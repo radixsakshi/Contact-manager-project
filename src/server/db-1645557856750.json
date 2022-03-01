@@ -1,0 +1,84 @@
+{
+  "contacts": [
+    {
+      "id": "DBDJDe3",
+      "name": "Krishna",
+      "email": "krishna@gmail.com",
+      "company": "Facebook",
+      "mobile": "3464848494",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0cYTihODeLNTSImny5ABxWFHWZZ2D6PxD6JjdH8lCvLty9NQ__uQblYqMsRw8V-SWpt8&usqp=CAU",
+      "groupId": "1"
+    },
+    {
+      "id": "TWAGFS3",
+      "name": "Vinayak",
+      "email": "Vinayak@gmail.com",
+      "company": "Twiter",
+      "mobile": "098098979",
+      "photo": "http://assets.stickpng.com/images/585e4bcdcb11b227491c3396.png",
+      "groupId": "2"
+    },
+    {
+      "id": "Giaso2",
+      "name": "Shivay",
+      "email": "shivay@gmail.com",
+      "company": "Google",
+      "mobile": "938374565",
+      "photo": "https://png.pngtree.com/png-vector/20190704/ourlarge/pngtree-businessman-user-avatar-free-vector-png-image_1538405.jpg",
+      "groupId": "3"
+    },
+    {
+      "id": "GJks4",
+      "name": "Ranu",
+      "email": "ranu@gmail.com",
+      "company": "Google",
+      "mobile": "986868668",
+      "photo": "https://cdn1.iconfinder.com/data/icons/user-pictures/100/female1-512.png",
+      "groupId": "4"
+    },
+    {
+      "id": "Tcjak23",
+      "name": "Ritika",
+      "email": "ritka@gmail.com",
+      "company": "TCS",
+      "mobile": "787675766",
+      "photo": "https://i.pinimg.com/originals/a6/58/32/a65832155622ac173337874f02b218fb.png",
+      "groupId": "5"
+    },
+    {
+      "id": "TCjakg4",
+      "name": "Prachi",
+      "email": "prachi@gmail.com",
+      "company": "Tech-Radix-",
+      "mobile": "787675734",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQw-hlv7i310uSbfkX1uRviUJbSu4KLjESSw&usqp=CAU",
+      "groupId": "6"
+    }
+  ],
+  "groups": [
+    {
+      "id": 1,
+      "name": "Friend"
+    },
+    {
+      "id": 2,
+      "name": "Colleague"
+    },
+    {
+      "id": 3,
+      "name": "Family"
+    },
+    {
+      "id": 4,
+      "name": "Service"
+    },
+    {
+      "id": 5,
+      "name": "Community"
+    },
+    {
+      "id": 6,
+      "name": "Social"
+    }
+  ]
+}

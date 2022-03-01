@@ -1,0 +1,90 @@
+{
+  "contacts": [
+    {
+      "id": "DBDJDe3",
+      "name": "nitin",
+      "email": "krishna@gmail.com",
+      "company": "Facebook",
+      "mobile": "346488",
+      "title": "Software Developer",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0cYTihODeLNTSImny5ABxWFHWZZ2D6PxD6JjdH8lCvLty9NQ__uQblYqMsRw8V-SWpt8&usqp=CAU",
+      "groupId": "1"
+    },
+    {
+      "id": "Giaso2",
+      "name": "Shivay",
+      "email": "shivay@gmail.com",
+      "company": "Google",
+      "title": "Software Developer",
+      "mobile": "938374565",
+      "photo": "https://png.pngtree.com/png-vector/20190704/ourlarge/pngtree-businessman-user-avatar-free-vector-png-image_1538405.jpg",
+      "groupId": "3"
+    },
+    {
+      "id": "GJks4",
+      "name": "Ranu",
+      "email": "ranu@gmail.com",
+      "company": "Google",
+      "title": "Software Developer",
+      "mobile": "986868668",
+      "photo": "https://cdn1.iconfinder.com/data/icons/user-pictures/100/female1-512.png",
+      "groupId": "4"
+    },
+    {
+      "id": "Tcjak23",
+      "name": "Ritika",
+      "email": "ritka@gmail.com",
+      "company": "TCS",
+      "title": "Software Developer",
+      "mobile": "787675766",
+      "photo": "https://i.pinimg.com/originals/a6/58/32/a65832155622ac173337874f02b218fb.png",
+      "groupId": "5"
+    },
+    {
+      "id": "TCjakg4",
+      "name": "Sanjhi neema",
+      "email": "prachi@gmail.com",
+      "company": "Tech-Radix-",
+      "mobile": "787675734",
+      "title": "Software Developer",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQw-hlv7i310uSbfkX1uRviUJbSu4KLjESSw&usqp=CAU",
+      "groupId": "6"
+    },
+    {
+      "name": "new",
+      "photo": "https://www.nicepng.com/png/detail/207-2074901_woman-icon-avatar-icon.png",
+      "mobile": "89898988",
+      "email": "new@gmail.com",
+      "company": "IT",
+      "groupId": "1",
+      "title": "Developer",
+      "id": "sZn22xs"
+    }
+  ],
+  "groups": [
+    {
+      "id": 1,
+      "name": "Friend"
+    },
+    {
+      "id": 2,
+      "name": "Colleague"
+    },
+    {
+      "id": 3,
+      "name": "Family"
+    },
+    {
+      "id": 4,
+      "name": "Service"
+    },
+    {
+      "id": 5,
+      "name": "Community"
+    },
+    {
+      "id": 6,
+      "name": "Social"
+    }
+  ]
+}
